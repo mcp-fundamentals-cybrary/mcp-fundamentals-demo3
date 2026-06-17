@@ -1,0 +1,10 @@
+# Local Python environment created by setup.sh
+.venv/
+
+# Notes written during the demo
+notes_db.jsonl
+
+# Common stragglers
+__pycache__/
+*.pyc
+.DS_Store
