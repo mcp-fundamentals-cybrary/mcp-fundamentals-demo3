@@ -12,7 +12,7 @@ You do not edit the server. Two short scripts handle setup and launching.
 
 ## What you need first
 
-- Python 3 installed (check with `python3 --version`).
+- Python 3.10 or newer installed (check with `python3 --version`).
 - Open WebUI with a local model already running (for example through Ollama).
 - A couple of gigabytes of free disk space for the install.
 
